@@ -10,6 +10,13 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+ .subtitulo {
+  font-size: 2em; /* Tamaño de fuente */
+  font-weight: bold; /* Negritas */
+  color: #333; /* Color de texto */
+  margin-bottom: 10px; /* Espacio inferior */
+}
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
